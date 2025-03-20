@@ -7,4 +7,5 @@ sbar.bar({
 	padding_right = 2,
 	padding_left = 2,
 	corner_radius = 0,
+	topmost = true,
 })
